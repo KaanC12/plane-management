@@ -4,7 +4,7 @@ At the first stage, this project was designed for a startup that aimed to invest
 
 Initially, we decided to develop software for airports. However, due to time constraints in software development, it was later decided to focus on end users instead of airports. There were two main challenges. The MVP of the project could not be used directly by airports because they already rely on many different software systems, which makes step-by-step integration difficult. Therefore, the strategy was changed to a gradual integration approach, aiming to connect pilots with airports.
 
-My partner believed that this project could be completed by AI, so I decided to publish it. Good luck to him.
+My partner believed that this project could be completed by AI, so I decided to publish it. The funniest part is he and his friend decided to slander me because I smoke weed. Good luck to him.
 
 ## Structure
 
