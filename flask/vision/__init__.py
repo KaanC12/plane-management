@@ -1,0 +1,1 @@
+from vision.ocr import Render
